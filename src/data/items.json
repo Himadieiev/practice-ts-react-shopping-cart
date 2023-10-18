@@ -7,20 +7,32 @@
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/images/computer.jpg"
+    "name": "Hat",
+    "price": 10.30,
+    "imgUrl": "/images/hat.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/images/banana.jpg"
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/images/computer.jpg"
   },
   {
     "id": 4,
     "name": "Car",
     "price": 14000,
     "imgUrl": "/images/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "House",
+    "price": 200000,
+    "imgUrl": "/images/house.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/images/banana.jpg"
   }
 ]
